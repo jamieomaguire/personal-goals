@@ -13,11 +13,17 @@ Open sourcing my personal development as a software engineer. I'd like this to h
 7. 🕹️ Make some open source contributions
 
 
+# Specific skills I'd like to build on
 
-
-
-
-
+## JS
+- React (and associated technologies i.e. state management)
+- Typescript
+- GraphQL
+- Building open-source component libraries (any framework but probably React or Vue) published to NPM
+- Advanced Storybook usage
+- Node (perhaps using Express or similar libraries for APIs/light backend work)
+- JS-based browser testing frameworks such as Cypress (or alternative)
+- Cross-platform frameworks (likely React Native)
 
 
 
