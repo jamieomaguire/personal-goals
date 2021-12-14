@@ -15,7 +15,6 @@ Open sourcing my personal development as a software engineer. I'd like this to h
 
 
 ## Specific skills I'd like to build on
-------------------------------
 ### JS
 - React (and associated technologies i.e. state management)
 - Typescript
