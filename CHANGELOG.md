@@ -7,7 +7,7 @@ v0.2.0
 *January 16, 2022*
 
 ### Added
-- Added React updates for mind Jan
+- Added React updates for mid Jan
 
 v0.1.0
 ------------------------------
