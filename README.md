@@ -1,6 +1,5 @@
 Personal Goals
 ==============
-*v0.1.0*
 
 Open sourcing my personal development as a software engineer. I'd like this to help keep me more organised, accountable and engaged!
 
